@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="66">
+	<author>Vertex Dezign</author>
+	<contributors>Icon: SirJoki80 Script: nilBrain</contributors>
+	<version>1.0.0.0</version>
+	<title>
+		<en>moreNumFarms</en>
+	</title>
+
+	<description>
+		<en>
+			<![CDATA[This Script allows to increase the current Limit of 8 Farms to 15.]]>
+		</en>
+		<de>
+			<![CDATA[Dieses Skript ermöglicht es die Aktuelle Limitierung von 8 Farmen auf 15 zu erhöhen.]]>
+		</de>
+	</description>
+
+	<iconFilename>icon_mNR.dds</iconFilename>
+	<multiplayer supported="true" only="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="moreNumFarms.lua"/>
+	</extraSourceFiles>
+</modDesc>
